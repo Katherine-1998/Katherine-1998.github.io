@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Katherine-1998.github.io</id>
-    <title>遗言</title>
-    <updated>2020-11-30T11:38:01.819Z</updated>
+    <title>迹</title>
+    <updated>2020-12-02T11:23:39.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Katherine-1998.github.io"/>
     <link rel="self" href="https://Katherine-1998.github.io/atom.xml"/>
-    <subtitle>from Katherine
+    <subtitle>for Katherine
 </subtitle>
     <logo>https://Katherine-1998.github.io/images/avatar.png</logo>
     <icon>https://Katherine-1998.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 遗言</rights>
+    <rights>All rights reserved 2020, 迹</rights>
     <entry>
         <title type="html"><![CDATA[序言]]></title>
         <id>https://Katherine-1998.github.io/post/xu-yan/</id>
